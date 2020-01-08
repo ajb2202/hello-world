@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a Container on a VM v2</h2>
+<h1> Hello, Welcome to Fixnetix Demo Project !!   </h1>
+<h2> Test WebApp Deployment on Tomcat Application Server</h2>
